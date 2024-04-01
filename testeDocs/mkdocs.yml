@@ -1,0 +1,7 @@
+site_name: Meu docs
+site_url: https://Meudocs.com/
+nav:
+  - Home: index.md
+  - About: about.md
+
+theme: readthedocs
